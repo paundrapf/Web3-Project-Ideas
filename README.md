@@ -1,4 +1,4 @@
-# Katalog Project Web3 Indonesia
+# Web3 Project
 
 > Katalog komprehensif 1000+ project Web3 terkini per Maret 2026.
 
